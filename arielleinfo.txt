@@ -2,3 +2,4 @@ Name: Arielle Leeman
 Github: arielleleeman
 Team#: 3
 Date: 11/5/18
+Favorite Color: Light Green
