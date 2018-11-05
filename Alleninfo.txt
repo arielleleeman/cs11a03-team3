@@ -1,1 +1,4 @@
+Name: Allen Jin
+Github: ajin106
+Team: 3
 Email: allenjin@brandeis.edu
